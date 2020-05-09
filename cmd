@@ -8,4 +8,6 @@ git clone https:github.com/xxx.git #读取git
 
 command R #打开cmd窗口
 
+cd.. #返回上一级目录
+
 更多参考此网站：http://chongzhuang.windowszj.com/windows10/7998.html
